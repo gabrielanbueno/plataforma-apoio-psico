@@ -1,0 +1,40 @@
+# Plataforma de Apoio Psicológico
+
+Projeto acadêmico interdisciplinar desenvolvido com o objetivo de conectar usuários a serviços de apoio psicológico acessíveis e gratuitos.
+
+A plataforma foi idealizada para facilitar o acesso à informação e auxiliar pessoas na busca por atendimento psicológico de forma simples e intuitiva.
+
+---
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+
+---
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Estrutura de navegação entre páginas
+- Interface voltada para acessibilidade e usabilidade
+- Organização de informações sobre apoio psicológico
+- Estrutura inicial para expansão do sistema
+
+---
+
+## Objetivo do projeto
+
+Este projeto foi desenvolvido como atividade interdisciplinar do curso de Análise e Desenvolvimento de Sistemas da FMU.
+
+Além da prática em desenvolvimento web, o projeto teve como foco a criação de uma solução com impacto social positivo.
+
+---
+
+## Execução
+
+1. Clone este repositório
+
